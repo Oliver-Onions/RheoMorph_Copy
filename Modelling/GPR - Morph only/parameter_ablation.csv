@@ -1,0 +1,7 @@
+mode,ablated,active,cv_r2
+single_descriptor,,diameter,0.2178379166860471
+single_descriptor,,circularity,0.5868750818337015
+single_descriptor,,compactness,0.5918011426089673
+leave_one_out,diameter,all_except_diameter,0.6318439749620026
+leave_one_out,circularity,all_except_circularity,0.656554064997979
+leave_one_out,compactness,all_except_compactness,0.648258730000372
